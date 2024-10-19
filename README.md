@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm passionate about solving problems and always eager to learn new things in technology. I enjoy building projects and exploring new frameworks to continuously grow my skills.</p>
+<p align="left">I'm passionate about problems solving and always eager to learn new things in technology. I enjoy building projects and exploring new frameworks to continuously grow my skills.</p>
 
 ###
 
