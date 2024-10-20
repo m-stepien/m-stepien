@@ -27,7 +27,6 @@
 - Gain expertise in DevOps tools like Jenkins and Ansible
 - Write clean, maintainable code following best practices
 - Explore programming languages like Go, Rust, and Erlang/Elixir
-- Build a project hosted in the cloud to improve skills in deployment and scalability
 - Build a cloud-based project with AWS or Azure
 - Develop a backend project that includes an embedded systems
 
